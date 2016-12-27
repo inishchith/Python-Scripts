@@ -1,4 +1,4 @@
 # Python
 Learning Python
 
-To Add : MergeSort , QuickSort , CountSort , Shell Sort
+To Add : MergeSort , QuickSort , CountSort , ShellSort
