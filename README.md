@@ -12,16 +12,16 @@
   ```
    * Schedule , time - Clock 
    * Requests , BeautifulSoup - Sending requests & Scraping
-   * Os , Pync , Notify - Notifier in ***Score Crawler***
+   * Os , Pync , Notify - Notifier in Score Crawler
    * Pafy - YouTube Crawler
    * Smtplib - Simple Mail Transfer Protocol
    * Validate-email , MimeMultipart-email - Breaking Message into To , From , Subject  & Body .
   ```
   Required Changes For Users 
    ```
-    1.Links in case Of **Score Crawler** and **InShorts Crawler** 
+    1.Links in case Of Score Crawler & InShorts Crawler 
     
-    2.In case of **Python Mail**
+    2.In case of Python Mail
       * Gmail smtp.gmail.com (port 465 or 587)
       * Outlook.com/Hotmail.com smtp-mail.outlook.com
       * Yahoo Mail smtp.mail.yahoo.com
