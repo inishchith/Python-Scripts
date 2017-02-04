@@ -3,16 +3,17 @@ import schedule
 import time
 import requests
 from bs4 import BeautifulSoup
+from pync import Notifier
+import os
 
 def job():
-    url = "http://www.espncricinfo.com/west-indies-v-india-2016/engine/match/1022597.html"
+    url = "http://www.espncricinfo.com/west-indies-v-india-2016/engine/match/1022597.html"  #link here , default invalid for now
     raw = requests.get(url)
     plain_text = raw.text
     obji = BeautifulSoup(plain_text)
-    for data in obji.findAll('span', {'class': "innings-1-score innings-current"}):
+    for data in obji.findAll('span', {'class': "innings-1-score innings-current"}): #search tags
         href = data.string
-        print(href)
-        print()
+        Notifier.notify(href, title="Match Score")
 
 schedule.every(10).seconds.do(job)
 #schedule.every().hour.do(job)
