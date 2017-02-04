@@ -18,11 +18,11 @@
    * Validate-email , MimeMultipart-email - Breaking Message into To , From , Subject  & Body .
   ```
   Required Changes For Users 
-    * Links in case Of **Score Crawler** and **InShorts Crawler** 
-    * In case of **Python Mail** 
+  1.Links in case Of **Score Crawler** and **InShorts Crawler** 
+  2.In case of **Python Mail** 
     ```
-    Gmail smtp.gmail.com (port 465 or 587)
-    Outlook.com/Hotmail.com smtp-mail.outlook.com
+    * Gmail smtp.gmail.com (port 465 or 587)
+    * Outlook.com/Hotmail.com smtp-mail.outlook.com
     Yahoo Mail smtp.mail.yahoo.com
     AT&T smpt.mail.att.net (port 465)
     Comcast smtp.comcast.net
