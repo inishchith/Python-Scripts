@@ -3,7 +3,7 @@
 ### Contents
  * [InShorts](inshorts.com/read) Crawler - A Script that prints headlines from **InShorts** website with links to full story .
  * Python Mail - Script which can be used to send mail .
- * Score Crawler - Script which notifies you with Match Score Every 10seconds ( Default) .
+ * Score Crawler - Script which notifies you with Match Score Every 10seconds .
  * [YouTube](youtube.com) Data Crawler - Script which gives all the information about a video .
 
   #### Description 
@@ -20,14 +20,14 @@
   Required Changes For Users 
     * Links in case Of **Score Crawler** and **InShorts Crawler** 
     * In case of **Python Mail** 
-      ```
-       * Gmail smtp.gmail.com (port 465 or 587)
-       * Outlook.com/Hotmail.com smtp-mail.outlook.com
-       * Yahoo Mail smtp.mail.yahoo.com
-       * AT&T smpt.mail.att.net (port 465)
-       * Comcast smtp.comcast.net
-       * Verizon smtp.verizon.net (port 465)
-      ```
+    ```
+    Gmail smtp.gmail.com (port 465 or 587)
+    Outlook.com/Hotmail.com smtp-mail.outlook.com
+    Yahoo Mail smtp.mail.yahoo.com
+    AT&T smpt.mail.att.net (port 465)
+    Comcast smtp.comcast.net
+    Verizon smtp.verizon.net (port 465)
+    ```
       
 ### Projects - To Do 
 
