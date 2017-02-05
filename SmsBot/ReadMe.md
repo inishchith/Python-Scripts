@@ -19,13 +19,14 @@
   ```
 
 **list Of External Modules and their installation**
-  >BeautifulSoup 
-    ```sh
-    #python3
-    $ pip3 install BeautiifulSoup4
-    ```
-  >Requests 
-    ```sh
-    $ pip3 install requests
-    ```
+>BeautifulSoup 
+```sh
+#python3
+$ pip3 install BeautiifulSoup4
+```
+>Requests 
+```sh
+$ pip3 install requests
+```
+
 **Note-** SmsBot.py Should be in your directory 
