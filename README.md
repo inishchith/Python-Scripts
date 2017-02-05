@@ -30,7 +30,8 @@
       * Verizon smtp.verizon.net (port 465)
    ```
       
-### Projects - To Do 
+### Projects 
+  * [SmsBot](https://github.com/inishchith/Python-Scripts-Projects/tree/master/SmsBot) - Send Sms to any mobile number in India .
 
 ### Contributers - To Add
 
