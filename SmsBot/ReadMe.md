@@ -9,22 +9,22 @@
   > You can also send Group SMS to many friends in one go .
 
 **Usage** 
--You can take a look at [Demo](https://github.com/inishchith/Python-Scripts-Projects/blob/master/SmsBot/Test.py) Or 
-```python
-import SmsBot
-query = SmsBot.sms("username","password") # username is usually Mobile Number (Logging in)
-my_message=input("Enter Your Message")
-query.send("recipient",my_message) # recipient = receiver's numebr
-query.Logout()
-```
+>You can take a look at [Demo](https://github.com/inishchith/Python-Scripts-Projects/blob/master/SmsBot/Test.py) Or 
+  ```python
+  import SmsBot
+  query = SmsBot.sms("username","password") # username is usually Mobile Number (Logging in)
+  my_message=input("Enter Your Message")
+  query.send("recipient",my_message) # recipient = receiver's numebr
+  query.Logout()
+  ```
 
 **list Of External Modules and their installation**
-  -BeautifulSoup 
+  >BeautifulSoup 
     ```sh
     #python3
     $ pip3 install BeautiifulSoup4
     ```
-  -Requests 
+  >Requests 
     ```sh
     $ pip3 install requests
     ```
