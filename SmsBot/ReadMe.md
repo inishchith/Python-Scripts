@@ -3,10 +3,10 @@
 ### A Python Module to send Sms to any Number in India using [Way2Sms](http://site23.way2sms.com/content/index.html).
 
 **Features**
-  > Send Upto 100 Daily Sms.
-    Delivered under 10 seconds .
-    Maximum length 139 characters .
-    You can also send Group SMS to many friends in one go .
+  * Send Upto 100 Daily Sms.
+  * Delivered under 10 seconds .
+  * Maximum length 139 characters .
+  * You can also send Group SMS to many friends in one go .
 
 **Usage** 
 >You can take a look at [Demo](https://github.com/inishchith/Python-Scripts-Projects/blob/master/SmsBot/Test.py) Or 
