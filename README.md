@@ -16,7 +16,7 @@
   ```
 ### Projects :paperclip:
   * **[SmsBot](https://github.com/inishchith/Python-Scripts/tree/master/SmsBot)** :calling:  Send Sms to any mobile number in India .
-  * **[BroadCast-Mail](https://github.com/inishchithPython-Scripts/tree/master/BroadCastMail)** :outbox_tray: A Python Package which can be used to BroadCast email .
+  * **[BroadCast-Mail](https://github.com/inishchith/Python-Scripts/tree/master/BroadCastMail)** :outbox_tray: A Python Package which can be used to BroadCast email .
 
 ### Contributers - To Add
 
