@@ -20,7 +20,7 @@ print("Author : " + object.author)
 print("Length : " + str(object.length))
 
 #duration
-print("Duration:" + object.duration)
+print("Duration : " + object.duration)
 
 #Published on date
 print("Published on Date : " + str(object.published))

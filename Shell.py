@@ -35,5 +35,5 @@ def execute(commands) :
     return True
 
 if __name__ == '__main__' :
-    print("> Welcome to Shell")
+    print(">> Welcome to Shell")
     shell()
